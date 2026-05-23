@@ -1,0 +1,248 @@
+[
+  {
+    "layout": 1,
+    "players": 1,
+    "lights": 15,
+    "filename": "layout_1__1_players__15_lights.png"
+  },
+  {
+    "layout": 2,
+    "players": 1,
+    "lights": 16,
+    "filename": "layout_2__1_players__16_lights.png"
+  },
+  {
+    "layout": 3,
+    "players": 1,
+    "lights": 17,
+    "filename": "layout_3__1_players__17_lights.png"
+  },
+  {
+    "layout": 4,
+    "players": 1,
+    "lights": 18,
+    "filename": "layout_4__1_players__18_lights.png"
+  },
+  {
+    "layout": 5,
+    "players": 1,
+    "lights": 19,
+    "filename": "layout_5__1_players__19_lights.png"
+  },
+  {
+    "layout": 6,
+    "players": 1,
+    "lights": 20,
+    "filename": "layout_6__1_players__20_lights.png"
+  },
+  {
+    "layout": 7,
+    "players": 2,
+    "lights": 8,
+    "filename": "layout_7__2_players__8_lights.png"
+  },
+  {
+    "layout": 8,
+    "players": 2,
+    "lights": 9,
+    "filename": "layout_8__2_players__9_lights.png"
+  },
+  {
+    "layout": 9,
+    "players": 2,
+    "lights": 10,
+    "filename": "layout_9__2_players__10_lights.png"
+  },
+  {
+    "layout": 10,
+    "players": 2,
+    "lights": 11,
+    "filename": "layout_10__2_players__11_lights.png"
+  },
+  {
+    "layout": 11,
+    "players": 2,
+    "lights": 12,
+    "filename": "layout_11__2_players__12_lights.png"
+  },
+  {
+    "layout": 12,
+    "players": 2,
+    "lights": 13,
+    "filename": "layout_12__2_players__13_lights.png"
+  },
+  {
+    "layout": 13,
+    "players": 2,
+    "lights": 14,
+    "filename": "layout_13__2_players__14_lights.png"
+  },
+  {
+    "layout": 14,
+    "players": 2,
+    "lights": 15,
+    "filename": "layout_14__2_players__15_lights.png"
+  },
+  {
+    "layout": 15,
+    "players": 2,
+    "lights": 16,
+    "filename": "layout_15__2_players__16_lights.png"
+  },
+  {
+    "layout": 16,
+    "players": 2,
+    "lights": 17,
+    "filename": "layout_16__2_players__17_lights.png"
+  },
+  {
+    "layout": 17,
+    "players": 2,
+    "lights": 18,
+    "filename": "layout_17__2_players__18_lights.png"
+  },
+  {
+    "layout": 18,
+    "players": 2,
+    "lights": 19,
+    "filename": "layout_18__2_players__19_lights.png"
+  },
+  {
+    "layout": 19,
+    "players": 2,
+    "lights": 20,
+    "filename": "layout_19__2_players__20_lights.png"
+  },
+  {
+    "layout": 20,
+    "players": 3,
+    "lights": 5,
+    "filename": "layout_20__3_players__5_lights.png"
+  },
+  {
+    "layout": 21,
+    "players": 3,
+    "lights": 6,
+    "filename": "layout_21__3_players__6_lights.png"
+  },
+  {
+    "layout": 22,
+    "players": 3,
+    "lights": 7,
+    "filename": "layout_22__3_players__7_lights.png"
+  },
+  {
+    "layout": 23,
+    "players": 3,
+    "lights": 8,
+    "filename": "layout_23__3_players__8_lights.png"
+  },
+  {
+    "layout": 24,
+    "players": 3,
+    "lights": 9,
+    "filename": "layout_24__3_players__9_lights.png"
+  },
+  {
+    "layout": 25,
+    "players": 3,
+    "lights": 10,
+    "filename": "layout_25__3_players__10_lights.png"
+  },
+  {
+    "layout": 26,
+    "players": 3,
+    "lights": 11,
+    "filename": "layout_26__3_players__11_lights.png"
+  },
+  {
+    "layout": 27,
+    "players": 3,
+    "lights": 12,
+    "filename": "layout_27__3_players__12_lights.png"
+  },
+  {
+    "layout": 28,
+    "players": 3,
+    "lights": 13,
+    "filename": "layout_28__3_players__13_lights.png"
+  },
+  {
+    "layout": 29,
+    "players": 4,
+    "lights": 4,
+    "filename": "layout_29__4_players__4_lights.png"
+  },
+  {
+    "layout": 30,
+    "players": 4,
+    "lights": 5,
+    "filename": "layout_30__4_players__5_lights.png"
+  },
+  {
+    "layout": 31,
+    "players": 4,
+    "lights": 6,
+    "filename": "layout_31__4_players__6_lights.png"
+  },
+  {
+    "layout": 32,
+    "players": 4,
+    "lights": 7,
+    "filename": "layout_32__4_players__7_lights.png"
+  },
+  {
+    "layout": 33,
+    "players": 4,
+    "lights": 8,
+    "filename": "layout_33__4_players__8_lights.png"
+  },
+  {
+    "layout": 34,
+    "players": 4,
+    "lights": 9,
+    "filename": "layout_34__4_players__9_lights.png"
+  },
+  {
+    "layout": 35,
+    "players": 4,
+    "lights": 10,
+    "filename": "layout_35__4_players__10_lights.png"
+  },
+  {
+    "layout": 36,
+    "players": 5,
+    "lights": 3,
+    "filename": "layout_36__5_players__3_lights.png"
+  },
+  {
+    "layout": 37,
+    "players": 5,
+    "lights": 4,
+    "filename": "layout_37__5_players__4_lights.png"
+  },
+  {
+    "layout": 38,
+    "players": 5,
+    "lights": 5,
+    "filename": "layout_38__5_players__5_lights.png"
+  },
+  {
+    "layout": 39,
+    "players": 5,
+    "lights": 6,
+    "filename": "layout_39__5_players__6_lights.png"
+  },
+  {
+    "layout": 40,
+    "players": 5,
+    "lights": 7,
+    "filename": "layout_40__5_players__7_lights.png"
+  },
+  {
+    "layout": 41,
+    "players": 5,
+    "lights": 8,
+    "filename": "layout_41__5_players__8_lights.png"
+  }
+]
